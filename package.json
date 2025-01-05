@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES6"
+      }
+  }
+  
